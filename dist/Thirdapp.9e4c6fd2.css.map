@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["index.css"],"sourcesContent":[".body\r\n{\r\n    background-color: red;\r\n}\r\n.btn{\r\n    background-color: green;\r\n}"],"names":[],"version":3,"file":"Thirdapp.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
